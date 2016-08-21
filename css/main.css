@@ -1,0 +1,22 @@
+
+.one  {
+
+width:220px;
+text-align: left;  
+font-family: arial;
+margin: static;
+padding:40px;
+border: 20px solid #C30066;
+height:190px;
+
+}
+
+.two  {
+width:220px;
+text-align: left;  
+font-family: arial;
+margin: auto;
+padding:40px;
+border: 20px solid #C30066;
+height:190px;
+}
